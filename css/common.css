@@ -165,8 +165,7 @@ a {
   display: inline-block;
 }
 
-.address-item.text {
-  display: inline-block;
+.address {
   margin-top: 20px;
 }
 

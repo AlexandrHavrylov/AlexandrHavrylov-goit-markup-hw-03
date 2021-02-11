@@ -169,7 +169,8 @@ a {
   margin-top: 20px;
 }
 
-.address-item {
+.address .list,
+.address-item:last-child {
   margin-top: 9px;
 }
 

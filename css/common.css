@@ -99,7 +99,7 @@ a {
 }
 
 .nav-item:not(:first-child) {
-  margin-left: 53px;
+  margin-left: 50px;
 }
 
 .nav-link {

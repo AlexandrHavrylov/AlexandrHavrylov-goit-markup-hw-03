@@ -126,9 +126,13 @@
 .team-item {
   margin-left: var(--card-set-gap);
   flex-basis: calc(100% / 4 - var(--card-set-gap));
-  padding-bottom: 30px;
 
   border-radius: 0px 0px 4px 4px;
+}
+
+.team-card {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .team-title {
@@ -139,7 +143,6 @@
 
   margin: 0;
   padding: 0;
-  margin-top: 30px;
 }
 
 .team-text {
